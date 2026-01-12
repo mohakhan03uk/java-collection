@@ -1,5 +1,6 @@
 
-# Java Lambda Expressions — Mini‑Lab (GitHub‑Ready)
+# Java Lambda Expressions
+
 
 A hands‑on, **beginner‑to‑advanced** lab for Java lambda expressions, Streams, Collectors, `CompletableFuture`, custom functional interfaces, and patterns for **checked exceptions**. Designed for copy‑paste and quick execution.
 
